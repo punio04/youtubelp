@@ -1,0 +1,127 @@
+.fv {
+  box-sizing: border-box;
+  background: url("image/fv.png") 50% 50% / cover repeat rgb(255, 255, 255);
+  height: 653px;
+}
+
+en-note.uno div,
+en-template div {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.under {
+  background: linear-gradient(transparent 70%, #fffc9c 70%);
+}
+
+.graph01 {
+  box-sizing: border-box;
+  height: inherit;
+  border: 0px;
+  border-radius: 15px;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII=) 50% 50% / cover repeat rgb(236, 236, 236);
+  opacity: 1;
+  background-image: url(image/graph01.png);
+}
+
+.graph02 {
+  box-sizing: border-box;
+  height: inherit;
+  border: 0px;
+  border-radius: 15px;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII=) 50% 50% / cover repeat rgb(236, 236, 236);
+  opacity: 1;
+  background-image: url(image/graph02.png);
+}
+
+.merit01 {
+  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII=') 50% 50% / cover repeat rgb(236, 236, 236);
+  background-image: url(image/merit01.png);
+}
+
+.merit02 {
+  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII=') 50% 50% / cover repeat rgb(236, 236, 236);
+  background-image: url(image/merit02.png);
+}
+
+.merit03 {
+  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII=') 50% 50% / cover repeat rgb(236, 236, 236);
+  background-image: url(image/merit03.png);
+}
+
+.evidence01 {
+  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII=') 50% 50% / cover repeat rgb(236, 236, 236);
+  background-image: url(image/evidence01.png);
+}
+
+.evidence02 {
+  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII=') 50% 50% / cover repeat rgb(240, 243, 245);
+  background-image: url(image/evidence02.png);
+}
+
+.evidence03 {
+  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII=') 50% 50% / cover repeat rgb(240, 243, 245);
+  background-image: url(image/evidence03.png);
+}
+
+
+.icon01 {
+  box-sizing: border-box;
+  display: block;
+  height: 100%;
+  width: 100%;
+  background: url(image/61218456-0-CP.png) -3.0625rem -2.875rem / 17.5625rem 17.4375rem;
+}
+
+.graph03 {
+  box-sizing: border-box;
+  display: block;
+  height: 100%;
+  width: 100%;
+  background: url(image/graph03.png) -4.9375rem -3.25rem / 44.5rem 44.5rem;
+}
+
+.background01 {
+  background: url(image/background01.jpg) 93% 27% / cover repeat rgb(255, 255, 255);
+  height: 712px;
+}
+
+.course {
+  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII=') 50% 50% / cover repeat rgb(255, 255, 255);
+  background-image: url(image/course.png);
+}
+
+.btn01 {
+  background: url(image/btn01.png);
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  height: 124px;
+  width: 523px;
+}
+
+.list {
+  background: url(image/list.png);
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  width: 642px;
+  height: 1350px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+a:hover {
+  opacity: 0.6;
+}
+
+
+
+body {
+  overflow-y: scroll;
+}
